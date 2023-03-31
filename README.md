@@ -5,7 +5,7 @@
   Hello there 👋
 </h1>
 
-My name is Lauris, I'm a software developer from Latvia. Here are some quick highlights about me:
+My name is Lauris, I'm a software engineer from Latvia. Here are some quick highlights about me:
 
 - 🔭 I'm currently working on my PET project [Coffee United People 2.0](https://github.com/LaSTiqq/Coffee-united-people-2.0)
 - 🔧 I'm currently maintaining three Django SPA websites
