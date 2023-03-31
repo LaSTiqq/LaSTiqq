@@ -5,7 +5,7 @@
   Hello there 👋
 </h1>
 
-My name is Lauris, I'm a software engineer from Latvia :latvia:. Here are some quick highlights about me:
+My name is Lauris, I'm a software engineer from Latvia. Here are some quick highlights about me:
 
 - 🔭 I'm currently working on my PET project [Coffee United People 2.0](https://github.com/LaSTiqq/Coffee-united-people-2.0)
 - 🔧 I'm currently maintaining three Django SPA websites
@@ -46,3 +46,5 @@ My name is Lauris, I'm a software engineer from Latvia :latvia:. Here are some q
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&show_icons=true&hide_border=true&count_private=true" />
   </a>
 </div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lastiqq.lastiqq)
