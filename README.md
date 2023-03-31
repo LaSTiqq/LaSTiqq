@@ -17,6 +17,27 @@ My name is Lauris, I'm a software developer from Latvia. Here are some quick hig
 - 🚀 Visit my personal [page](https://laurisstirna.eu.pythonanywhere.com/)
 
 <h1 align="center">
+  My Tech Stack
+</h1>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript badge">
+    <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
+    <img src="https://img.shields.io/badge/-CSS3-blueviolet?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">
+    <img src="https://img.shields.io/badge/-SCSS-pink?logo=sass&logoColor=white&style=for-the-badge" alt="SCSS badge">
+    <img src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge">
+    <img src="https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">
+    <img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB badge">
+    <img src="https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white&style=for-the-badge" alt="Express.js badge">
+    <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge" alt="React badge">
+    <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&amp;logoColor=white&style=for-the-badge" alt="Node.js badge">
+    <img src="https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white&style=for-the-badge" alt="Redux badge">
+  
+  <sub>Some of the technologies are well-known, some of them aren't</sub>
+</div>
+
+<h1 align="center">
   My GitHub Stats
 </h1>
 
@@ -24,24 +45,4 @@ My name is Lauris, I'm a software developer from Latvia. Here are some quick hig
   <a href="https://github.com/LaSTiqq">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&show_icons=true&hide_border=true&count_private=true" />
   </a>
-</div>
-
-<h1 align="center">
-  My Top Repositories
-</h1>
-
-<div align="center">
-    <a href="https://github.com/LaSTiqq/Coffee-united-people-2.0">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaSTiqq&repo=Coffee-united-people-2.0" alt="Coffee United People 2.0">
-    </a>
-    <a href="https://github.com/LaSTiqq/fetch-and-array">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaSTiqq&repo=fetch-and-array" alt="Fetch and Array">
-    </a>
-    <a href="https://github.com/LaSTiqq/express">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaSTiqq&repo=express" alt="Express">
-    </a>
-    <a href="https://github.com/LaSTiqq/diploma">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LaSTiqq&repo=diploma" alt="Diploma">
-    </a>
-  </div>
 </div>
