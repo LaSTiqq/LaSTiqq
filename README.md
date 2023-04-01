@@ -25,9 +25,9 @@ My name is Lauris, I'm a software engineer from Latvia. Here are some quick high
     <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript badge">
     <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
     <img src="https://img.shields.io/badge/-CSS3-blueviolet?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">
+    <img src="https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">
     <img src="https://img.shields.io/badge/-SCSS-pink?logo=sass&logoColor=white&style=for-the-badge" alt="SCSS badge">
     <img src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge">
-    <img src="https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">
     <img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB badge">
     <img src="https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white&style=for-the-badge" alt="Express.js badge">
     <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge" alt="React badge">
