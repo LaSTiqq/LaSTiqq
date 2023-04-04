@@ -43,7 +43,7 @@ My name is Lauris, I'm a software engineer from Latvia. Here are some quick high
 
 <div align="center">
   <a href="https://github.com/LaSTiqq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&show_icons=true&hide_border=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&show_icons=true&hide_border=true&count_private=true&theme=dark" />
   </a>
 </div>
 
