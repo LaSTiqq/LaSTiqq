@@ -29,19 +29,21 @@ My name is Lauris, I'm a software engineer from Latvia. Here are some quick high
     <img src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge">
     <img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB badge">
     <img src="https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white&style=for-the-badge" alt="Express.js badge">
-    <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge" alt="React badge">
+    <img src="https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white&style=for-the-badge" alt="React badge">
     <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&amp;logoColor=white&style=for-the-badge" alt="Node.js badge">
     <img src="https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white&style=for-the-badge" alt="Redux badge">
 </div>
 
 <h1 align="center">
-  My GitHub Stats
+  My Stats
 </h1>
 
-<div align="center">
-  <a href="https://github.com/LaSTiqq/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&theme=transparent" alt="GitHub Stats" />
+<p style="margin-bottom: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&theme=transparent" />
   </a>
-</div>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaSTiqq&layout=compact&langs_count=4&theme=transparent&card_width=380" />
+  </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lastiqq.lastiqq)
