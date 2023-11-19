@@ -39,8 +39,8 @@ My name is Lauris, I'm a software engineer from Latvia. Here are some quick high
 </h1>
 
 <p style="margin-bottom: 20px;" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" style="margin-bottom: 20px;" src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&theme=transparent" />
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-bottom: 20px;">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&theme=transparent" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaSTiqq&layout=compact&langs_count=4&theme=transparent&card_width=300" />
