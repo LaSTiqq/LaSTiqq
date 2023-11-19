@@ -32,8 +32,6 @@ My name is Lauris, I'm a software engineer from Latvia. Here are some quick high
     <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge" alt="React badge">
     <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&amp;logoColor=white&style=for-the-badge" alt="Node.js badge">
     <img src="https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white&style=for-the-badge" alt="Redux badge">
-  
-  <sub>Some of the technologies are well-known, some of them aren't</sub>
 </div>
 
 <h1 align="center">
@@ -41,7 +39,9 @@ My name is Lauris, I'm a software engineer from Latvia. Here are some quick high
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&theme=transparent&count_private=true" alt="" style="display: flex; justify-content: center">
+  <a href="https://github.com/LaSTiqq/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=LaSTiqq&theme=transparent" alt="GitHub Stats" />
+  </a>
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lastiqq.lastiqq)
