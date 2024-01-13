@@ -10,7 +10,7 @@ My name is Lauris, I'm a software engineer from Latvia. Here are some quick high
 - 🚀 I'm currently learning React.js+Redux toolkit [here](https://github.com/LaSTiqq/todo-app) and MERN (MongoDB+Express.js+React.js+Node.js) stack of techhologies [here](https://github.com/LaSTiqq/Coffee-united-people-2.0)
 - 🔧 I'm currently maintaining three Django SPA websites and my portfolio [page](https://laurisstirna.eu.pythonanywhere.com/)
 - 🔍 I'm currently in search of a full-time opportunity to kickstart my career
-- 🎓 I graduated [Rezkne Academy of Technologies](https://www.rta.lv/) in 2021 as a software engineer
+- 🎓 I graduated [Rezkne Academy of Technologies](https://www.rta.lv/) in 2021
 - ⏳ I currently have 2 years of real-world experience
 - 📢 Reach me out on my [email](mailto:lavrencij13@gmail.com)
 
