@@ -7,12 +7,11 @@
 
 My name is Lauris, I'm a software engineer from Latvia. Here are some quick highlights about me:
 
-- 🔭 I'm currently working on my PET project [Coffee United People 2.0](https://github.com/LaSTiqq/Coffee-united-people-2.0)
-- 🔧 I'm currently maintaining three Django SPA websites and my personal [page](https://laurisstirna.eu.pythonanywhere.com/)
-- 🌱 I'm currently learning MERN (MongoDB+Express.js+React.js+Node.js) stack of techhologies
+- 🚀 I'm currently learning React.js+Redux toolkit [here](https://github.com/LaSTiqq/todo-app) and MERN (MongoDB+Express.js+React.js+Node.js) stack of techhologies [here](https://github.com/LaSTiqq/Coffee-united-people-2.0)
+- 🔧 I'm currently maintaining three Django SPA websites and my portfolio [page](https://laurisstirna.eu.pythonanywhere.com/)
 - 🔍 I'm currently in search of a full-time opportunity to kickstart my career
-- ⏳ I currently have ~2 years of real-world experience
-- 🎓I graduated [Rezkne Academy of Technologies](https://www.rta.lv/) in 2021
+- 🎓 I graduated [Rezkne Academy of Technologies](https://www.rta.lv/) in 2021 as a software engineer
+- ⏳ I currently have 2 years of real-world experience
 - 📢 Reach me out on my [email](mailto:lavrencij13@gmail.com)
 
 <h1 align="center">
@@ -45,5 +44,9 @@ My name is Lauris, I'm a software engineer from Latvia. Here are some quick high
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaSTiqq&layout=compact&langs_count=4&theme=transparent&card_width=300" />
   </a>
+
+<div align="center">
+<sub>Refresh the page if stats aren't displaying</sub>
+</div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lastiqq.lastiqq)
