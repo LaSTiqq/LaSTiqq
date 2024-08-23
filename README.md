@@ -5,13 +5,15 @@
   Hello there 👋
 </h1>
 
-My name is Lauris, I'm a software engineer from Latvia. Here are some quick highlights about me:
+🛠️ Since the rise of AI, I see little value in producing tons of repositories that merely reflect AI-generated solutions. While my current tech stack may appear narrower than what employers might expect today, my repositories represent the skills and expertise I developed (and continue to hone) before the widespread availability of AI. They showcase my ability to solve problems and write code independently which are key skills to become a dev.
 
-- 🚀 I'm currently learning React.js + Redux [here](https://github.com/LaSTiqq/todo-app) and MERN (MongoDB + Express.js + React.js + Node.js) stack [here](https://github.com/LaSTiqq/Coffee-united-people-2.0)
-- 🔧 I'm currently maintaining [one](https://www.affix.lv/) [two](https://www.retrix.lv/) [three](https://www.elgor.lv/) Django SPA websites. One more similar project is under development
+My name is Lauris, I'm a software engineer from Latvia. Let me introduce some quick highlights about me:
+
+- 🚀 I'm currently learning MERN (MongoDB + Express.js + React.js + Node.js) stack [here](https://github.com/LaSTiqq/Coffee-united-people-2.0). Cheers to [Accenture Bootcamp](https://bootcamp.lv/) 
+- 🔧 I'm currently maintaining [one](https://www.affix.lv/), [two](https://www.retrix.lv/), [three](https://www.elgor.lv/) Django SPA websites. One more similar project is under development
 - 🔍 I'm currently in a remote/hybrid job search to kickstart my career
-- 🎓 I graduated [Rezekne Academy of Technologies](https://www.rta.lv/) and received bachelor's degree in 2021. 3 years since then in a free-floating
-- 📢 Find out all the options on how to reach me out on my portfolio [page](https://laurisstirna.eu.pythonanywhere.com/)
+- 🎓 I graduated [Rezekne Academy of Technologies](https://www.rta.lv/) and received bachelor's degree in 2021
+- 📢 Find out all the options on how to reach me out on my portfolio [website](https://laurisstirna.eu.pythonanywhere.com/)
 
 <h1 align="center">
   My Tech Stack
