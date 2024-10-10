@@ -31,7 +31,6 @@ My name is Lauris, I'm a software engineer from Latvia. Let me introduce some qu
     <img src="https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white&style=for-the-badge" alt="Express.js badge">
     <img src="https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white&style=for-the-badge" alt="React badge">
     <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&amp;logoColor=white&style=for-the-badge" alt="Node.js badge">
-    <img src="https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white&style=for-the-badge" alt="Redux badge">
 </div>
 
 <h1 align="center">
