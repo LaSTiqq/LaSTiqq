@@ -9,11 +9,11 @@
 
 My name is Lauris, I'm a software engineer from Latvia. Let me introduce some quick highlights about me:
 
-- 🚀 I'm currently learning MERN (MongoDB + Express.js + React.js + Node.js) stack [here](https://github.com/LaSTiqq/Coffee-united-people-2.0). Cheers to [Accenture Bootcamp](https://bootcamp.lv/) 
-- 🔧 I'm currently maintaining [one](https://www.affix.lv/), [two](https://www.retrix.lv/), [three](https://www.elgor.lv/) Django SPA websites. One more similar project is under development
-- 🔍 I'm currently in a remote/hybrid job search to kickstart my career
-- 🎓 I graduated [Rezekne Academy of Technologies](https://www.rta.lv/) and received bachelor's degree in 2021
-- 📢 Find out all the options on how to reach me out on my portfolio [website](https://laurisstirna.eu.pythonanywhere.com/)
+- 🎓 I've graduated [Rezekne Academy of Technologies](https://www.rta.lv/) and received bachelor's degree in 2021
+- 🔧 I'm currently maintaining [one](https://www.affix.lv/), [two](https://www.retrix.lv/), [three](https://www.elgor.lv/) Flask SPA websites. One more similar Django project is under development
+- 🚀 Check out what I've learned at [Accenture Bootcamp](https://bootcamp.lv/) in 2022. [Here](https://github.com/LaSTiqq/coffee-united-people) and then [here](https://github.com/LaSTiqq/Coffee-united-people-2.0). 
+- 🔍 I'm currently in a remote/hybrid job search
+- 📢 Find out all the options on how to reach me out on my portfolio [Django website](https://laurisstirna.eu.pythonanywhere.com/)
 
 <h1 align="center">
   My Tech Stack
@@ -21,16 +21,18 @@ My name is Lauris, I'm a software engineer from Latvia. Let me introduce some qu
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python badge">
+    <img src="https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">
+    <img src="https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=for-the-badge" alt="Flask badge">
     <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript badge">
+    <img src="https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white&style=for-the-badge" alt="React.js badge">
+    <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&amp;logoColor=white&style=for-the-badge" alt="Node.js badge">
+    <img src="https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white&style=for-the-badge" alt="Express.js badge">
     <img src="https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
     <img src="https://img.shields.io/badge/-CSS3-blueviolet?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3 badge">
-    <img src="https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=for-the-badge" alt="Django badge">
     <img src="https://img.shields.io/badge/-SCSS-pink?logo=sass&logoColor=white&style=for-the-badge" alt="SCSS badge">
     <img src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap badge">
     <img src="https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB badge">
-    <img src="https://img.shields.io/badge/-Express.js-grey?logo=express&logoColor=white&style=for-the-badge" alt="Express.js badge">
-    <img src="https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white&style=for-the-badge" alt="React badge">
-    <img src="https://img.shields.io/badge/-Node.js-green?logo=node.js&amp;logoColor=white&style=for-the-badge" alt="Node.js badge">
+
 </div>
 
 <h1 align="center">
